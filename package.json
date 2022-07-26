@@ -1,0 +1,9 @@
+{
+  "name": "dongheeYoo",
+  "version": "1.0.0",
+  "description": "ts study",
+  "main": "index.js",
+  "repository": "https://github.com/dongheeYoo/mystudy.git",
+  "author": "dongheeYoo <yoodhajou0616@gmail.com>",
+  "license": "MIT"
+}
